@@ -8,7 +8,7 @@ version = "3.0.0"
 edition = "2024"
 rust-version = "1.94"
 license = "MIT"
-repository = "https://github.com/Omni-Wild/task-focuser"
+repository = "https://github.com/Omni-Wild/task-focuser-rust"
 
 [workspace.dependencies]
 anyhow = "1.0.104"
